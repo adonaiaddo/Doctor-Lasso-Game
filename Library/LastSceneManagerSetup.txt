@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/adona/OneDrive/Documents/GitHub/Doctor_Lasso/Doctor_Lasso_HW4/Assets/FarmScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
